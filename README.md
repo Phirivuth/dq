@@ -8,4 +8,4 @@
 - Bla Bla Bla
 ## Section 3: Use cases
 - Customer segmentation
-- Customer information
+
